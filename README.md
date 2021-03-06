@@ -1,0 +1,1 @@
+Build a C source file from a template, which includes title, description, author, purpose and usage. Based on template provided by Steve Oualline in Practical C, 3rd edition. 
